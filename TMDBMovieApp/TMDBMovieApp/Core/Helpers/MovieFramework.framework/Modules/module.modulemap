@@ -1,0 +1,6 @@
+framework module MovieFramework {
+  umbrella header "MovieFramework.h"
+
+  export *
+  module * { export * }
+}
